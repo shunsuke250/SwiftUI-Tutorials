@@ -22,6 +22,8 @@
 		AB94ED112AFA4C65003B4E87 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB94ED102AFA4C65003B4E87 /* Landmark.swift */; };
 		AB94ED292AFA4DA6003B4E87 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB94ED282AFA4DA6003B4E87 /* ModelData.swift */; };
 		AB94ED2E2AFA4ED3003B4E87 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB94ED2D2AFA4ED3003B4E87 /* LandmarkRow.swift */; };
+		ABD74A252B06457800A6396A /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD74A242B06457800A6396A /* BadgeSymbol.swift */; };
+		ABD74A272B0645BE00A6396A /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD74A262B0645BE00A6396A /* RotatedBadgeSymbol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		AB94ED102AFA4C65003B4E87 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		AB94ED282AFA4DA6003B4E87 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		AB94ED2D2AFA4ED3003B4E87 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		ABD74A242B06457800A6396A /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
+		ABD74A262B0645BE00A6396A /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				AB94ED2B2AFA4DF3003B4E87 /* Model */,
 				AB94ED2C2AFA4E12003B4E87 /* Resources */,
 				AB94ED002AF75BED003B4E87 /* Assets.xcassets */,
+				ABD74A242B06457800A6396A /* BadgeSymbol.swift */,
+				ABD74A262B0645BE00A6396A /* RotatedBadgeSymbol.swift */,
 				AB94ED022AF75BED003B4E87 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -216,6 +222,8 @@
 				AB94ECFD2AF75BEB003B4E87 /* LandmarksApp.swift in Sources */,
 				AB7036FD2AFFAEB5002B624B /* FavoriteButton.swift in Sources */,
 				AB7037032B0261F4002B624B /* BadgeBackground.swift.swift in Sources */,
+				ABD74A272B0645BE00A6396A /* RotatedBadgeSymbol.swift in Sources */,
+				ABD74A252B06457800A6396A /* BadgeSymbol.swift in Sources */,
 				AB7036F92AFBCBF9002B624B /* LandmarkList.swift in Sources */,
 				AB7036FB2AFE0F2A002B624B /* LandmarkDetail.swift in Sources */,
 				AB7037012B0260A9002B624B /* HexagonParameters.swift.swift in Sources */,
